@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "usingComponents": {
+    "u-checkbox": "/uview-ui/components/u-checkbox/u-checkbox"
+  }
+}

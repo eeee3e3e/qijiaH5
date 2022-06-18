@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "问题详情",
+  "usingComponents": {
+    "u-read-more": "/uview-ui/components/u-read-more/u-read-more",
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

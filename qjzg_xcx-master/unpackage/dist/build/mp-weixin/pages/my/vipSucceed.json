@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

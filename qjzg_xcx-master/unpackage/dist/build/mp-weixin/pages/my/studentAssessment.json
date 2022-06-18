@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "学员测评",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

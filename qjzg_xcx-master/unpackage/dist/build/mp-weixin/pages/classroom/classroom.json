@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "课堂",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}
